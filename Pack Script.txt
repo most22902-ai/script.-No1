@@ -1,7 +1,9 @@
 local allowedUsers = {
     [7357269071] = true,
     [4346829510] = true,
-    [2402502300] = true
+    [2402502300] = true,
+    [1111111111] = true,
+    [2222222222] = true
 }
 
 local Players = game:GetService("Players")
